@@ -1,0 +1,6 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+beer_reviews/
+beer_reviews.tar.gz
